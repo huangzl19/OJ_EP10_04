@@ -257,7 +257,7 @@ void work(ifstream&ifile) {
 			ifile >> tmp;
 		}
 	}
-
+	/**/
 	for (int naa = 1; naa <= n; naa++) {
 		matrix[naa][0] = s;
 		ifile >> tmp;
