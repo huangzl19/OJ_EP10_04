@@ -9,7 +9,7 @@
 #include<fstream>
 #pragma warning(disable:4996)
 using namespace std;
-
+// ´úÂëÌá½»²âÊÔ
 struct info {
 	int length;
 	string road;
